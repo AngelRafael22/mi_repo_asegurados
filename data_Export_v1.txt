@@ -1,0 +1,5 @@
+<INICIO>
+1. Obtener resultado de data_transform_v1
+2. Insertarlo en un archivo Excel - data_transformada
+3. exportarlo a la ruta C:\Users\angel\workspace
+<FIN>
